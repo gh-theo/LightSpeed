@@ -1,55 +1,107 @@
+<a id="lightspeed-vpn-review"></a>
+
 # 光速云(LightSpeed)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-## 光速云(LightSpeed)VPN官网注册地址（当前可用｜稳定高速｜真实测速）
+[完整详情与最新套餐](https://eoht.net/serve/airport/lightspeed) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
 
-**最便宜的订阅有8元 59g/月(年付)。**
+光速云（LightSpeed）提供机场订阅，常见叫法包括“LightSpeed VPN”“光速云梯子”和“光速云机场”。页面同时整理代理节点、客户端，以及月度和一次性流量方案，可先按付款方式与实际用量缩小选择范围。
 
-**点击购买👉👉** [光速云(LightSpeed)VPN官网](https://eoht.net/serve/airport/lightspeed)
+> [!NOTE]
+> **30 秒看懂光速云**
+>
+> - **最低门槛**：轻量版 59GB/月，年付 ¥99。
+> - **核心特点**：月度套餐覆盖 110GB 至 900GB，另有 1TB 不限时流量包。
+> - **优惠与场景**：页面列有新人 8 折码，并提供流媒体解锁和线路测速记录。
+>
+> [查看套餐与优惠](#lightspeed-vpn-plans) · [查看解锁与测速](#lightspeed-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+>
 
-**当前可用的官方注册地址，稳定不跳转、不失效。**
+<a id="lightspeed-official-website"></a>
 
-## 光速云(LightSpeed)VPN是什么？适合哪些人使用（真实体验 + 优缺点）
+## 光速云(LightSpeed)VPN官网与优惠注册入口
 
-**不做订阅阅后即焚!!放心使用**
+**轻量版年付 ¥99，59GB/月，折合 ¥8.25/月。**
 
-**光速云(LightSpeed)** VPN，定价实惠便宜机场梯子工具，月付17元110G，极具性价比，年付最低可至0.15元/1GB，全部节点线路采用隧道中转优化及高速专线，可选择全球节点，提供最优质线路
+[立即购买光速云套餐](https://eoht.net/serve/airport/lightspeed)
 
-- 原生IP解锁流媒体，包括**Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）** 等等
-- 解锁**TikTok**，解锁**ChatGPT**、**Copilot**、**Gemini**等AI工具
-- **全局负载均衡、动态加速**
-- 晚高峰不限速，敏感期间不影响使用
-- 客户端支持 ： **Clash** **Clash Meta** **Singbox** **v2rayn** **Shadowrocket** 等
-- 节点覆盖 **香港、台湾、日本、新加坡、美国、马来西亚、泰国、英国、巴西、阿根廷** 等地
+**本页汇总光速云(LightSpeed)机场推广注册入口、套餐价格、优惠码、不限时套餐与测速记录；购买前请以结算页信息为准。**
 
-## 光速云(LightSpeed)VPN价格与套餐对比（性价比分析｜新手怎么选）
+<a id="lightspeed-airport-overview"></a>
 
-- **9折折扣码**:AMM
-- **新手建议**：轻度使用选**轻量版**，日常流媒体与 AI 工具推荐**量子版 / 无界版**。
-- 年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
+## 光速云(LightSpeed)VPN机场怎么样？线路特点、流媒体与适用人群
 
-**支付方式** 支付宝微信支付USDT
+**光速云(LightSpeed)** 主打大流量套餐：除 59GB 年付轻量版外，月度方案覆盖 110GB 至 900GB，并提供 1TB 不限时流量包。机场介绍称其节点采用隧道中转与高速专线，并提供负载均衡、动态加速和晚高峰不限速保障。
 
-|  套餐类型  | 流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                       套餐购买                                                        |
-| :--------: | :------: | :--: | :--: | :----: | :---: | :------: | :-------------------------------------------------------------------------------------------------------------------: |
-| **轻量版** | **59G**  |  -   |  -   |   -    |  ¥99  |  无限制  | [立即购买](https://eoht.net/serve/airport/lightspeed) |
-| **极速版** | **110G** | ¥17  | ¥50  |  ¥90   | ¥160  |  无限制  | [立即购买](https://eoht.net/serve/airport/lightspeed) |
-| **流光版** | **220G** | ¥34  | ¥100 |  ¥180  | ¥320  |  无限制  | [立即购买](https://eoht.net/serve/airport/lightspeed) |
-| **量子版** | **450G** | ¥68  | ¥200 |  ¥375  | ¥667  |  无限制  | [立即购买](https://eoht.net/serve/airport/lightspeed) |
-| **无界版** | **900G** | ¥130 | ¥390 |  ¥702  | ¥1248 |  无限制  | [立即购买](https://eoht.net/serve/airport/lightspeed) |
+- 页面列出的原生 IP 节点支持 **Netflix、Disney+、HBO Max、YouTube、Spotify、Hulu** 等流媒体；
+- 支持 **ChatGPT、Copilot、Gemini、TikTok** 等服务；
+- 订阅可导入 **Clash、Clash Meta、Sing-box、v2rayN、Shadowrocket**；
+- 多地区节点与多档流量方案适合按需求比较，实际线路质量可结合下方测速核对。
 
-|    套餐类型    | 流量(不限时) | 一次性费用 | 设备限制 |                                                       套餐购买                                                        |
-| :------------: | :----------: | :--------: | :------: | :-------------------------------------------------------------------------------------------------------------------: |
-| **不限时套餐** |   **1TB**    |    ¥680    |  无限制  | [立即购买](https://eoht.net/serve/airport/lightspeed) |
+<a id="lightspeed-vpn-plans"></a>
 
-## 光速云(LightSpeed)VPN真实测速图（高峰期表现实测）
+## 光速云(LightSpeed)VPN套餐价格、优惠与选择建议
 
-完整测速图、流媒体与 AI 解锁结果请查看：[完整评测](https://eoht.net/serve/airport/lightspeed)
+> [!TIP]
+>
+> - **新人首次8折折扣码**：`AMM`
+> - **新手建议**：轻度使用选**轻量版**，日常流媒体与 AI 工具推荐**量子版 / 无界版**。
+> - 年付**8**折/2年付**7**折/3年付**6**折，配合折扣码后的实时价格以结算页为准
+>
 
-- [🔥🔥🔥2026年便宜好用的翻墙VPN机场推荐评测(长期更新 欢迎推荐)](https://eoht.net/serve/airport/summary)
-- [翻墙科学上网客户端使用教程汇总](https://eoht.net/serve/antiwall/summary)
-- [稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://eoht.net/serve/sharing/account-sharing-guide)
-- [AI 使用教程汇总｜ChatGPT、Gemini 新手入门与国内使用指南](https://eoht.net/ai/summary)
-- [国外接码平台 Hero SMS 评测（稳定 · 低价 · 高成功率）](https://eoht.net/serve/code/sms)
+**支付方式** 支付宝 / 微信支付 / USDT
 
-> **免责声明**
-本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
+|  套餐类型  | 流量/月  | 月付 | 季付 | 年付  |                                                      套餐购买                                                       |
+|:----------:|:--------:|:----:|:----:|:-----:|:-------------------------------------------------------------------------------------------------------------------:|
+| **轻量版** | **59G**  |  -   |  -   |  ¥99  | [立即购买](https://eoht.net/serve/airport/lightspeed) |
+| **极速版** | **110G** | ¥17  | ¥50  | ¥160  | [立即购买](https://eoht.net/serve/airport/lightspeed) |
+| **流光版** | **220G** | ¥34  | ¥100 | ¥320  | [立即购买](https://eoht.net/serve/airport/lightspeed) |
+| **量子版** | **450G** | ¥68  | ¥200 | ¥667  | [立即购买](https://eoht.net/serve/airport/lightspeed) |
+| **无界版** | **900G** | ¥130 | ¥390 | ¥1248 | [立即购买](https://eoht.net/serve/airport/lightspeed) |
+
+|    套餐类型    | 流量(不限时) | 一次性费用 |                                                      套餐购买                                                       |
+|:--------------:|:------------:|:----------:|:-------------------------------------------------------------------------------------------------------------------:|
+| **不限时套餐** |   **1TB**    |    ¥680    | [立即购买](https://eoht.net/serve/airport/lightspeed) |
+
+<a id="lightspeed-speed-test"></a>
+
+## 光速云(LightSpeed)VPN线路、流媒体解锁与测速记录
+
+<!-- ![光速云(LightSpeed) 三网拓扑](https://i.eoht.net/airport/LightSpeed_analyze.webp) -->
+
+![光速云(LightSpeed) 第一组流媒体解锁记录](https://i.eoht.net/airport/lightspeed_test1.webp)
+
+![光速云(LightSpeed) 第二组流媒体解锁记录](https://i.eoht.net/airport/lightspeed_test2.webp)
+
+![光速云(LightSpeed) 第三组流媒体解锁记录](https://i.eoht.net/airport/lightspeed_test3.webp)
+
+![光速云(LightSpeed) 测速图](https://i.eoht.net/airport/lightspeed_speed.webp)
+
+<a id="lightspeed-related-guides"></a>
+
+## 光速云(LightSpeed)VPN常见问题与继续比较
+
+<a id="lightspeed-annual-vs-one-time-plan"></a>
+
+### 光速云(LightSpeed)VPN年付套餐和 1TB 不限时流量包怎么选？
+
+轻量版按月提供 59GB，年付 ¥99；1TB 不限时套餐是 ¥680 一次性购买固定总流量。每月持续使用可比较年付或月度套餐，低频备用则可重点核对不限时流量包的有效期与使用规则。
+
+<a id="lightspeed-discount-plan"></a>
+
+### 光速云(LightSpeed)VPN优惠码适合哪个套餐？
+
+页面列有新人首次 8 折码，并提供多个付款周期。优惠是否适用于目标套餐、能否和周期折扣同时使用，应以结算页的实时结果为准。
+
+想比较其他不限时流量方案，可查看[Sogo云](https://eoht.net/serve/airport/sogo)和[飞为(Firefly)](https://eoht.net/serve/airport/firefly)；还可继续阅读[套餐与价格汇总](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)、[流媒体观影指南](https://eoht.net/streaming/summary)、[AI 使用指南](https://eoht.net/ai/summary)及[客户端教程汇总](https://eoht.net/serve/antiwall/summary)。
+
+[立即购买光速云套餐](https://eoht.net/serve/airport/lightspeed)
+
+---
+
+- [机场套餐与评测汇总](https://eoht.net/serve/airport/summary)
+- [科学上网客户端使用教程](https://eoht.net/serve/antiwall/summary)
+- [账号合租与数字账号指南](https://eoht.net/serve/sharing/account-sharing-guide)
+- [AI 工具使用指南](https://eoht.net/ai/summary)
+- [Hero SMS 国外接码平台](https://eoht.net/serve/code/sms)
+
+> 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
