@@ -2,7 +2,7 @@
 
 # 光速云(LightSpeed)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/lightspeed) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/lightspeed) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 光速云（LightSpeed）提供机场订阅，常见叫法包括“LightSpeed VPN”“光速云梯子”和“光速云机场”。页面同时整理代理节点、客户端，以及月度和一次性流量方案，可先按付款方式与实际用量缩小选择范围。
 
